@@ -1,4 +1,0 @@
-repository "Elementary@UniversityWork@cloud"
-  path "/"
-    smartbranch "/main/Rayrisson"     
-     
